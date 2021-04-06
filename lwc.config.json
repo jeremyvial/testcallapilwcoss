@@ -1,0 +1,10 @@
+{
+    "modules": [
+        {
+            "dir": "src/client/modules"
+        },
+        {
+            "npm": "lwc-recipes-oss-ui-components"
+        }
+    ]
+}
